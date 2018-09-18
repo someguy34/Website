@@ -8,6 +8,6 @@ This website is about me.
 
 ## Case Study
 My first objective is ...
-- []
+- [x] Put some text on site.
 - []
 - []
